@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/packit/static/css/main.df991efd.css",
+    "main.js": "/packit/static/js/main.d020b370.js",
+    "index.html": "/packit/index.html",
+    "main.df991efd.css.map": "/packit/static/css/main.df991efd.css.map",
+    "main.d020b370.js.map": "/packit/static/js/main.d020b370.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df991efd.css",
+    "static/js/main.d020b370.js"
+  ]
+}
