@@ -10,7 +10,7 @@ export default function Item({ item, onDeleteItems, onToggleItem }) {
         {item.quantity} {item.description}
       </span>
       <button onClick={() => onDeleteItems(item.id)}>
-        <img src="/icons/clear.svg" alt="clear"></img>
+        <span className="close-btn">&times;</span>
       </button>
     </li>
   );
