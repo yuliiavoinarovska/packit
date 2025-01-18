@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/packit/static/css/main.df991efd.css",
-    "main.js": "/packit/static/js/main.d020b370.js",
+    "main.css": "/packit/static/css/main.19abe286.css",
+    "main.js": "/packit/static/js/main.64da46de.js",
     "index.html": "/packit/index.html",
-    "main.df991efd.css.map": "/packit/static/css/main.df991efd.css.map",
-    "main.d020b370.js.map": "/packit/static/js/main.d020b370.js.map"
+    "main.19abe286.css.map": "/packit/static/css/main.19abe286.css.map",
+    "main.64da46de.js.map": "/packit/static/js/main.64da46de.js.map"
   },
   "entrypoints": [
-    "static/css/main.df991efd.css",
-    "static/js/main.d020b370.js"
+    "static/css/main.19abe286.css",
+    "static/js/main.64da46de.js"
   ]
 }
